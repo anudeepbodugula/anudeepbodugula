@@ -22,6 +22,4 @@ I’m a DevOps Engineer and Site Reliability Engineer with experience in cloud i
 📫 How to Reach Me
 
 	•	Email: a.bodugula@hotmail.com
-	•	LinkedIn: Anudeep Murali
-	•	GitHub: @anudeepmurali
-        •	Website: https://anudeep-bodugula.com/
+	•	LinkedIn: https://www.linkedin.com/in/anudeep-murali/
