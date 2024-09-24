@@ -1,30 +1,27 @@
-## Hi, I’m Anudeep Murali 👋
+👋 Hi, I’m Anudeep Murali
 
-DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Enthusiast
+I’m a DevOps Engineer and Site Reliability Engineer with experience in cloud infrastructure, automation, and site reliability. My expertise lies in building, automating, and optimizing cloud-native applications and infrastructure, primarily using AWS, Kubernetes, Terraform, and CI/CD tools.
 
-I’m a DevOps Engineer/SRE with experience in designing, automating, and maintaining scalable cloud infrastructure.
+🔧 Technologies & Tools
 
-💼 What I Do:
+	•	Cloud: AWS (VPC, RDS, EC2, ECS, EKS, Lambda, S3)
+	•	Containers: Docker, Kubernetes, ECS, EKS, Fargate
+	•	Automation: Terraform, Ansible, Jenkins, CircleCI
+	•	Scripting: Python, Bash
+	•	Databases: MySQL, PostgreSQL
+	•	Monitoring: Prometheus, Grafana, CloudWatch
 
-      •	Cloud Infrastructure: Expertise in AWS (VPC, RDS, VPN, ECS, EKS) and multi-cloud architecture.
-      •	Containerization & Orchestration: Proficient in Docker and Kubernetes (EKS, Fargate, EC2 clusters).
-      •	Infrastructure as Code: Terraform expert, automating cloud infrastructure and CI/CD pipelines.
-      •	Site Reliability Engineering: Implementing monitoring, logging, and alerting solutions, ensuring high availability and performance.
+🎓 Certifications
 
-🛠 Technologies I Work With:
+	•	AWS Solutions Architect – Associate
+	•	Certified Kubernetes Administrator (CKA)
+	•	HashiCorp Terraform Associate
 
-    • Cloud: AWS (VPC, RDS, S3, Lambda), GCP
-    •	Containers: Docker, Kubernetes, ECS, EKS, Fargate
-    •	IaC Tools: Terraform, AWS CloudFormation, Ansible
-    •	CI/CD: Jenkins, CircleCI, GitHub Actions
-    •	Programming Languages: Python, Bash, Go
-    •	Databases: MySQL, PostgreSQL
-    •	Monitoring: Prometheus, Grafana
 
-🏆 Certifications:
 
-    •	AWS Certified Solutions Architect : https://www.credly.com/badges/fcf447f5-34e2-499f-a697-2e37655ed38d/public_url
-    •	Certified Kubernetes Administrator (CKA) : https://www.credly.com/badges/5363b046-414c-4e72-ae66-6aa1181ff6a6/public_url
-    •	HashiCorp Certified: Terraform Associate : https://www.credly.com/badges/1b269e44-e2c5-4ef6-bd2f-9ff5c9d355b7/public_url
+📫 How to Reach Me
 
-📫 **Get in Touch:
+	•	Email: a.bodugula@hotmail.com
+	•	LinkedIn: Anudeep Murali
+	•	GitHub: @anudeepmurali
+      •	Website: https://anudeep-bodugula.com/
